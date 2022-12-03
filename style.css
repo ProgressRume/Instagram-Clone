@@ -131,7 +131,7 @@ i {
 
 .posts1 {
     display: flex;
-    padding: 0 7px;
+    padding: 4px 10px;
 
 }
 
@@ -158,7 +158,7 @@ i {
 
 .img-wrapper2 img {
     height: 35px;
-    width: 35px;
+    width: 36px;
     border-radius: 50%;
     display: flex;
     object-fit: cover;
@@ -244,7 +244,7 @@ i {
     /* background-color: rebeccapurple; */
     padding: 3rem 7rem 0.5rem 2rem;
     /* margin-left: 0%; */
-    height: 290.5rem;
+    height: 263.5rem;
 }
 
 .stories1 {
